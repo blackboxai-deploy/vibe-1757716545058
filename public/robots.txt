@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Disallow admin and API routes from search engines
+Disallow: /api/
+
+# Sitemap location
+Sitemap: https://skvglobalcrypto.com/sitemap.xml
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1
